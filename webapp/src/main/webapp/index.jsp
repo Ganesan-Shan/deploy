@@ -1,3 +1,3 @@
-<h1> Welcome to Alogic-Technologies !!! </h1>
-<h2> Tomorrow is Monday!! </h2>
-<h3> Good Morning all </h3>
+<h1> Welcome to New-Technologies !!! </h1>
+<h2> Today is Wednesday!! </h2>
+<h3> Good Morning & Merry Chirstmas to All </h3>

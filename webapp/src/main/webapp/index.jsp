@@ -1,5 +1,5 @@
-<h1> Welcome to Devops-Technologies </h1> 
-<h2> Today is Thursday </h2>
-<h3> This is fourth simple projects and working well </h3>
-<h4> Successfuly working well </h4>
+<h1> This is artifactory deployment  </h1> 
+<h2> Today is Sunday </h2>
+<h3> This is testing project for artifactory deployment </h3>
+<h4> Successfull Depolyment will be happen </h4>
 <h5> Thanks for working </h5> 
